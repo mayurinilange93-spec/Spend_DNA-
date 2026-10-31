@@ -5,8 +5,7 @@
 **A Python-based personal finance analytics project that analyses synthetic transaction data to identify spending patterns, detect unusual transactions and discover spending personality types.**
 
 ## 📸 Project Output Screenshot
-
-\<--Spend_DNA-->
+![SpendDNA Dashboard](Spend_DNA.png)
 
 
 
